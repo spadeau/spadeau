@@ -11,7 +11,7 @@ Malheureusement, je me suis retrouvé avec des problèmes et une réputation dé
 
 ### 2021 : Excès d'ennuis
 Cette année-là, j'ai beaucoup plus copié.
-Je voulais créer un serveur qui fonctionne mais j'ai repris des concepts qui ne m'appartenaient pas : du design d'interface utilisateur et de jeu, des noms de serveurs volés,
+Je voulais créer un serveur qui fonctionne mais j'ai repris des concepts qui ne m'appartenaient pas : du UI Design et de Game Design, des noms de serveurs volés,
 des identités usurpées. Cela m'a fait tomber de haut.
 
 ### 2022 : Changer mais sans réussir
