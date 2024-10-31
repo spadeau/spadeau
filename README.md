@@ -30,7 +30,7 @@ S'en sont suivis des dox, des appels et une dépression. Mon ancien pseudo étai
 
 ### 2024 : Une année normale ?
 Au début de l'année, j'ai voulu changer d'attitude. 
-J'étais "redouté" par une équipe. En fin d'année, on m'a expliqué que mes actes avaient fait du mal à beaucoup de personnes. 
+J'étais "redouté" par une team. En fin d'année, on m'a expliqué que mes actes avaient fait du mal à beaucoup de personnes. 
 J'ai perdu beaucoup d'amis, y compris mon meilleur ami, dont j'ai ruiné la réputation sans m'en rendre compte.
 
 ### 2025 : Le futur ?
